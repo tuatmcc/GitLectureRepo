@@ -2,3 +2,5 @@ print("kayukayukayukayukayukayukayukayukayukayukayukayukayukayukayukayukayukayuk
 
 while(1):
     print("na")
+
+print("hogege")
